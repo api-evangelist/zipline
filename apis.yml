@@ -1,0 +1,92 @@
+aid: zipline
+name: Zipline
+description: >-
+  Zipline is a South San Francisco–headquartered autonomous logistics
+  company operating the world's largest commercial drone delivery network,
+  with more than two million customer deliveries flown across the United
+  States, Rwanda, Ghana, Nigeria, Kenya, Côte d'Ivoire, and Japan. Zipline
+  designs, builds, and operates two end-to-end aircraft platforms: Platform 1
+  (P1, "Sparrow"), a long-range fixed-wing aircraft that launches from a
+  catapult, parachutes payloads from altitude, and is used primarily for
+  national-scale healthcare logistics — delivering blood products, vaccines,
+  medicines, and lab samples to hospitals and clinics — and Platform 2 (P2),
+  a short-range hybrid VTOL aircraft with an autonomous tethered "droid"
+  delivery vehicle that lowers packages from a hovering aircraft directly to
+  a designated point on the ground, enabling precision quick-commerce
+  delivery from restaurants, retailers, pharmacies, and hospitals. Zipline's
+  customer roster includes Walmart, OhioHealth, Michigan Medicine, Cleveland
+  Clinic, Mayo Clinic Florida, MultiCare, Sweetgreen, GNC, Jet's Pizza, the
+  governments of Rwanda, Ghana, Nigeria, and Kenya, and Japan's Toyota
+  Tsusho, with the P2 platform actively scaling across the Dallas–Fort Worth
+  Metroplex, Pea Ridge (AR), and expanding into Houston and Phoenix in 2026.
+  The company also operates one of the largest civil autonomous aviation
+  stacks in the world — proprietary detect-and-avoid, route planning,
+  weather, fleet operations, and flight-control software — and in 2025
+  received the first-ever FAA Part 135 BVLOS (beyond-visual-line-of-sight)
+  operational approval permitting drone package delivery without visual
+  observers. Zipline is a privately held company; its revenue model is
+  drone-as-a-service contracts with healthcare systems, retailers, restaurant
+  brands, and governments. There is no public developer API, SDK,
+  OpenAPI/AsyncAPI specification, GitHub organization, status page,
+  changelog, or self-service developer portal — integrations with customer
+  systems (order management, EHR, WMS, dispatch) are delivered as
+  managed enterprise integrations rather than as a public programmable API.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Drones
+  - Autonomous Aircraft
+  - Drone Delivery
+  - Unmanned Aerial Systems
+  - Autonomous Logistics
+  - Last Mile Delivery
+  - Quick Commerce
+  - Healthcare Logistics
+  - Medical Delivery
+  - Blood Delivery
+  - Vaccine Delivery
+  - Retail Delivery
+  - Restaurant Delivery
+  - Aviation
+  - BVLOS
+  - Detect And Avoid
+  - VTOL
+  - Robotics
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/zipline/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.zipline.com
+  - type: Safety
+    url: https://www.zipline.com/safety
+  - type: Impact
+    url: https://www.zipline.com/impact
+  - type: Newsroom
+    url: https://www.zipline.com/newsroom
+  - type: Careers
+    url: https://www.zipline.com/careers
+  - type: Privacy
+    url: https://www.zipline.com/privacy
+  - type: TermsOfService
+    url: https://www.zipline.com/terms-of-service
+  - type: Twitter
+    url: https://twitter.com/flyzipline
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/zipline
+  - type: YouTube
+    url: https://www.youtube.com/@flyzipline
+  - type: Instagram
+    url: https://www.instagram.com/flyzipline
+  - type: Facebook
+    url: https://www.facebook.com/flyzipline
+  - type: TikTok
+    url: https://www.tiktok.com/@flyzipline
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
